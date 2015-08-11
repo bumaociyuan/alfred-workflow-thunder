@@ -3,7 +3,7 @@
 然后回车确认即开始下载。
 
 ## Download
-[Alfred_Thunder.alfredworkflow](raw/master/Alfred_Thunder.alfredworkflow)
+[Alfred_Thunder.alfredworkflow](https://raw.githubusercontent.com/bumaociyuan/alfred-workflow-thunder/master/Alfred_Thunder.alfredworkflow)
 
 ## Requirement
 本workflow使用的Applescript脚本需要系统辅助权限，请到`偏好设置 - 安全与隐私 - 辅助`添加Alfred程序。
